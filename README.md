@@ -1,24 +1,13 @@
-# crytocoin
+# Crypto Coin
 
-## Project setup
-```
-npm install
-```
+Aplicacion web que filtra las crytomonedas por nombre o symbolo. Se utilizo la API de CoinGecko.
 
-### Compiles and hot-reloads for development
+## API
 ```
-npm run serve
+https://www.coingecko.com/en/api/documentation
 ```
+# Tecnologia
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* Axios
+* Api
+* Vue
